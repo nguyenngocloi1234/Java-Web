@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sql_conector_java">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/lib/sql_conector_java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/lib/sql_conector_java" recursive="false" />
+  </library>
+</component>
